@@ -1,3 +1,6 @@
 language: java
-
+notifications:
+  email:
+  -luisgumucioflores@gmail.com
+ 
 script: ant default
