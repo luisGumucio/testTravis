@@ -11,5 +11,5 @@ package main;
  * @author Unkon
  */
 public class Person {
-    
+    private String;
 }
